@@ -1,4 +1,6 @@
 
+  首先使用codeblocks生成win32平台的动态连接库，这种链接库是本地链接库，也就是dll文件和lib文件，使用dumpbin可以生成lib文件，
+  使用lib命令可以生成lib文件。然后加入dll到vs2010编写的动态链接库中，就可以使用了。
   GDSL - Generic Data Structures Library
   $Id: README,v 1.18 2012/08/21 14:01:03 ndarnis Exp $
   ______________________________________________________________________________
