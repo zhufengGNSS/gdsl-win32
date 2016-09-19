@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs2010_gdal", "vs2010_gdal\vs2010_gdal.vcxproj", "{B2FF0E1E-089F-4D58-B3E8-5BCCDF927248}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_list", "test_list\test_list.vcxproj", "{FD532DC6-4B04-42E3-BC28-E9B9CFD84663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FF0E1E-089F-4D58-B3E8-5BCCDF927248}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2FF0E1E-089F-4D58-B3E8-5BCCDF927248}.Debug|Win32.Build.0 = Debug|Win32
+		{B2FF0E1E-089F-4D58-B3E8-5BCCDF927248}.Release|Win32.ActiveCfg = Release|Win32
+		{B2FF0E1E-089F-4D58-B3E8-5BCCDF927248}.Release|Win32.Build.0 = Release|Win32
+		{FD532DC6-4B04-42E3-BC28-E9B9CFD84663}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD532DC6-4B04-42E3-BC28-E9B9CFD84663}.Debug|Win32.Build.0 = Debug|Win32
+		{FD532DC6-4B04-42E3-BC28-E9B9CFD84663}.Release|Win32.ActiveCfg = Release|Win32
+		{FD532DC6-4B04-42E3-BC28-E9B9CFD84663}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

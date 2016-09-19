@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="so_test" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/libso_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/libso_test" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../AUTHORS" />
+		<Unit filename="../COPYING" />
+		<Unit filename="../ChangeLog" />
+		<Unit filename="../INSTALL" />
+		<Unit filename="../Makefile" />
+		<Unit filename="../Makefile.am" />
+		<Unit filename="../Makefile.in" />
+		<Unit filename="../NEWS" />
+		<Unit filename="../README" />
+		<Unit filename="../THANKS" />
+		<Unit filename="../TODO" />
+		<Unit filename="../acconfig.h" />
+		<Unit filename="../aclocal.m4" />
+		<Unit filename="../config.guess" />
+		<Unit filename="../config.h" />
+		<Unit filename="../config.h.in" />
+		<Unit filename="../config.log" />
+		<Unit filename="../config.status" />
+		<Unit filename="../config.sub" />
+		<Unit filename="../configure" />
+		<Unit filename="../configure.ac" />
+		<Unit filename="../depcomp" />
+		<Unit filename="../gdsl-1.8.layout" />
+		<Unit filename="../gdsl-config" />
+		<Unit filename="../gdsl-config.in" />
+		<Unit filename="../gdsl.spec" />
+		<Unit filename="../gdsl.spec.in" />
+		<Unit filename="../install-sh" />
+		<Unit filename="../libtool" />
+		<Unit filename="../ltmain.sh" />
+		<Unit filename="../missing" />
+		<Unit filename="../src/_gdsl_bintree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/_gdsl_bintree.h" />
+		<Unit filename="../src/_gdsl_bstree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/_gdsl_bstree.h" />
+		<Unit filename="../src/_gdsl_list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/_gdsl_list.h" />
+		<Unit filename="../src/_gdsl_node.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/_gdsl_node.h" />
+		<Unit filename="../src/examples/_integers.h" />
+		<Unit filename="../src/examples/_strings.h" />
+		<Unit filename="../src/gdsl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl.h" />
+		<Unit filename="../src/gdsl_2darray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_2darray.h" />
+		<Unit filename="../src/gdsl_bstree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_bstree.h" />
+		<Unit filename="../src/gdsl_hash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_hash.h" />
+		<Unit filename="../src/gdsl_heap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_heap.h" />
+		<Unit filename="../src/gdsl_interval_heap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_interval_heap.h" />
+		<Unit filename="../src/gdsl_list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_list.h" />
+		<Unit filename="../src/gdsl_macros.h" />
+		<Unit filename="../src/gdsl_perm.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_perm.h" />
+		<Unit filename="../src/gdsl_queue.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_queue.h" />
+		<Unit filename="../src/gdsl_rbtree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_rbtree.h" />
+		<Unit filename="../src/gdsl_sort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_sort.h" />
+		<Unit filename="../src/gdsl_stack.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../src/gdsl_stack.h" />
+		<Unit filename="../src/gdsl_types.h" />
+		<Unit filename="../src/mainpage.h" />
+		<Unit filename="../stamp-h1" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

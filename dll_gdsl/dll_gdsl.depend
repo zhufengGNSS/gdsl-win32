@@ -1,0 +1,206 @@
+# depslib dependency file v1.0
+1474265724 source:f:\vs2010cmd\gdsl-1.8\src\_gdsl_bintree.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"_gdsl_bintree.h"
+	"gdsl_types.h"
+	"gdsl_macros.h"
+
+1474261751 f:\vs2010cmd\gdsl-1.8\config.h
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\_gdsl_bintree.h
+	<stdio.h>
+	"gdsl_types.h"
+	"gdsl_macros.h"
+
+1345554004 f:\vs2010cmd\gdsl-1.8\src\gdsl_types.h
+	<stdio.h>
+	<sys/types.h>
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_macros.h
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\_gdsl_bstree.c
+	"../config.h"
+	<stdlib.h>
+	<assert.h>
+	"gdsl_types.h"
+	"_gdsl_bstree.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\_gdsl_bstree.h
+	"_gdsl_bintree.h"
+	"gdsl_macros.h"
+	"gdsl_types.h"
+
+1474265818 source:f:\vs2010cmd\gdsl-1.8\src\_gdsl_list.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"_gdsl_node.h"
+	"gdsl_types.h"
+	"_gdsl_list.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\_gdsl_node.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\_gdsl_list.h
+	<stdio.h>
+	"_gdsl_node.h"
+	"gdsl_types.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\_gdsl_node.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"_gdsl_node.h"
+	"gdsl_types.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl.c
+	"../config.h"
+
+1474265835 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_2darray.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"gdsl_2darray.h"
+	"gdsl_types.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_2darray.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265820 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_bstree.c
+	"../config.h"
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"gdsl_types.h"
+	"_gdsl_bintree.h"
+	"gdsl_bstree.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_bstree.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_hash.c
+	"../config.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"_gdsl_node.h"
+	"gdsl_hash.h"
+	"gdsl_list.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_hash.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_list.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_heap.c
+	"../config.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gdsl_heap.h"
+
+1141749178 f:\vs2010cmd\gdsl-1.8\src\gdsl_heap.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265831 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_interval_heap.c
+	"../config.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	"gdsl_interval_heap.h"
+
+1371054973 f:\vs2010cmd\gdsl-1.8\src\gdsl_interval_heap.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265815 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_list.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"_gdsl_node.h"
+	"_gdsl_list.h"
+	"gdsl_types.h"
+	"gdsl_list.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_perm.c
+	"../config.h"
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<assert.h>
+	"gdsl_types.h"
+	"gdsl_list.h"
+	"gdsl_perm.h"
+
+1177590019 f:\vs2010cmd\gdsl-1.8\src\gdsl_perm.h
+	"gdsl_types.h"
+
+1474265837 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_queue.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"_gdsl_list.h"
+	"_gdsl_node.h"
+	"gdsl_types.h"
+	"gdsl_queue.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_queue.h
+	<stdio.h>
+	"gdsl_types.h"
+
+1474265822 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_rbtree.c
+	"../config.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	"gdsl_types.h"
+	"gdsl_rbtree.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_rbtree.h
+	"gdsl_types.h"
+	"_gdsl_bintree.h"
+	"gdsl_macros.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_sort.c
+	"../config.h"
+	"gdsl_types.h"
+
+1474265850 source:f:\vs2010cmd\gdsl-1.8\src\gdsl_stack.c
+	"../config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"_gdsl_list.h"
+	"gdsl_types.h"
+	"gdsl_stack.h"
+
+1141489925 f:\vs2010cmd\gdsl-1.8\src\gdsl_stack.h
+	<stdio.h>
+	"gdsl_types.h"
+
